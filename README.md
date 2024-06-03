@@ -22,8 +22,13 @@ The Ticket Management System is a comprehensive solution designed to streamline 
    ```bash
    git clone https://github.com/Durgesh63/Ticket-Management-System.git 
    cd ticket-management-system
+   npm install
+   npm run dev
 
 1. **Clone the repository Frontend:**
    ```bash
    git clone https://github.com/Durgesh63/Ticket-Management-System.git -b Frontend
    cd ticket-management-system
+   npm install
+   npm run dev
+   
